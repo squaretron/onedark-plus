@@ -1,0 +1,21 @@
+{
+    "name": "onedark-plus",
+    "displayName": "One Dark Plus",
+    "description": "This is the best theme for Visual Studio Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.64.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Plus-color-theme.json"
+            }
+        ]
+    }
+}
